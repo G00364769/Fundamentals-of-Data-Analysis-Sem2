@@ -1,5 +1,7 @@
 # Fundamentals-of-Data-Analysis
 
+This is repository for Fundamentals-of-Data-Analysis
+
 ## Software Requirments
 
  - Anaconda 5.3
@@ -14,7 +16,7 @@
 
  https://github.com/G00364769/Fundamentals-of-Data-Analysis-Sem2
 
- - Right corner Click to clone or Download Button
+ - Right corner Click on clone or Download Button
 
  - It will display one bar in that click to Download Zip
 
